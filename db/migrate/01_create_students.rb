@@ -7,12 +7,12 @@ class CreateStudents < ActiveRecord::Migration
   #     name TEXT
   #     )
   #   SQL
-  # 
+  #
   #   ActiveRecord::Base.connection.execute(sql)
   # end
 
   def change
-    
+    create_table :
   end
 
 end
