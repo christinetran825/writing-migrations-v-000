@@ -19,5 +19,3 @@ class CreateStudents < ActiveRecord::Migration
   end
 
 end
-
-e(name: "Steven", grade: 12, birthdate: "April 5th")
