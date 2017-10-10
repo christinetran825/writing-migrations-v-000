@@ -1,4 +1,4 @@
-class CreateStudents < ActiveRecord::Migration
+class AddGradeAndBirthdateToStudents < ActiveRecord::Migration
 
   def change
     create_table :students do |t|
